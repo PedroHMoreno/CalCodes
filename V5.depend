@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1593443002 source:/home/pedrockzz/V5/main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<locale.h>
+
